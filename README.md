@@ -1,72 +1,89 @@
 # 🚀 Space XMD  
 
-![Status](https://img.shields.io/badge/Status-Under_Maintenance-orange)  
-![Version](https://img.shields.io/badge/Version-1.0.0-blue)  
-![License](https://img.shields.io/badge/License-MIT-green)  
-![Developed By](https://img.shields.io/badge/Developed%20By-Iconic%20Tech-purple)  
+<p align="center">
+  <img src="https://i.gifer.com/77b0.gif" width="250" alt="Space Online Animation"/>
+</p>
 
-> **Whatsapp rich features bot — developed by Iconic Tech**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Under_Maintenance-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Developed_By-Iconic_Tech-purple?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🌌 Live Preview  
+## 🎯 Quick Actions  
 
-![Space Animation](https://i.gifer.com/origin/77/77b0a2b41ecbfa9c8f6d0f89a740e78f_w200.gif)  
-
-### Buttons  
-
-[![Deploy Real](https://img.shields.io/badge/🚀%20Deploy-Real-success?style=for-the-badge)](https://tinyurl.com/253tajve)  
-[![Last Update](https://img.shields.io/badge/🛠️%20Last%20Update-${new Date().toLocaleDateString()}-blue?style=for-the-badge)](#)  
+<p align="center">
+  <a href="https://tinyurl.com/253tajve">
+    <img src="https://img.shields.io/badge/🚀 Deploy-Real-success?style=for-the-badge&logo=rocket"/>
+  </a>
+  <a href="#last-update">
+    <img src="https://img.shields.io/badge/🛠️ Last_Update-20_Aug_2025-blue?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://whatsapp.com/channel/0029ValX2Js9RZAVtDgMYj0r">
+    <img src="https://img.shields.io/badge/💬 Support-Channels-brightgreen?style=for-the-badge&logo=whatsapp"/>
+  </a>
+</p>
 
 ---
 
 ## 📸 Preview  
 
-![Space XMD thumbnail](https://files.catbox.moe/9gz0cx.jpg)  
-![Space XMD Preview](https://files.catbox.moe/88y517.jpg)  
+<p align="center">
+  <img src="https://files.catbox.moe/9gz0cx.jpg" width="400"/>
+  <img src="https://files.catbox.moe/88y517.jpg" width="400"/>
+</p>
 
 ---
 
 ## 📖 Description  
 
-This bot has just been **reborn** 🌠.  
-Enjoy **fantastic commands** and **free deployment** for everyone.  
+✨ **Space XMD** has just been **reborn**.  
+Enjoy **fantastic commands** and **free deployment** under a **modern and smart design**.  
 
 ---
 
 ## ⚠️ Current Status  
 
-🚧 **Under Maintenance** — new features and improvements coming soon!  
+🚧 **Under Maintenance**  
+New features and improvements are on the way. Stay tuned!  
 
 ---
 
 ## 🚀 Getting Started  
 
-1. Visit 👉 [https://tinyurl.com/253tajve](https://tinyurl.com/253tajve)  
+1. Visit 👉 [Deploy Link](https://tinyurl.com/253tajve)  
 2. Follow the on-screen instructions  
-3. Complete the registration process  
+3. Complete registration and enjoy 🚀  
 
 ---
 
 ## 🔔 Stay Updated  
 
-- 📢 [WhatsApp Channel](https://whatsapp.com/channel/0029ValX2Js9RZAVtDgMYj0r)  
+- 📢 [Official WhatsApp Channel](https://whatsapp.com/channel/0029ValX2Js9RZAVtDgMYj0r)  
 
 ---
 
 ## ✨ Features  
 
-- Fast and reliable WhatsApp bot  
+- Fast & reliable WhatsApp bot  
+- Clean & professional design  
 - Free deployment  
-- Transparent development  
-- Constant updates  
+- Regular updates  
+- Trusted development  
 
 ---
 
 ## 🤝 Support  
 
-For support or questions, contact through official **Iconic Tech** channels.  
+For any issues, join the **Support Channels** above or contact **Iconic Tech** directly.  
 
 ---
 
-💡 *Developed with ❤️ by **Iconic Tech***
+<p align="center">
+  💡 Developed with ❤️ by <b>Iconic Tech</b>
+</p>
+
+---
