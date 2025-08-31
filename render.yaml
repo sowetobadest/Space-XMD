@@ -1,1 +1,8 @@
-
+services:
+  - type: web
+    name: Space-Xmd
+    env: node
+    plan: free
+    region: oregon
+    buildCommand: "npm install"
+    startCommand: "node index.js"
