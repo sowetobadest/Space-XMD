@@ -1,9 +1,15 @@
 {
-  "name": "Space-Xmd",
-  "version": "1.0.0",
-  "description": "SPACE-XMD MULTI DEVICE",
+  "name": "Space-XMD",
+  "version": "3.0.0",
+  "description": "Multipurpose WhatsApp bot",
   "main": "index.js",
-  "Dev": "iconic_tech",
+  "homepage": "https://codewave-unit.zone.id",
+  "directories": {
+    "lib": "lib",
+    "database": "database",
+    "session": "session",
+    "media": "media"
+  },
   "scripts": {
     "start": "node index.js"
   },
@@ -12,7 +18,7 @@
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "@hapi/boom": "^10.0.1",
-     "baileys": "6.7.18",
+    "baileys": "6.7.18",
     "awesome-phonenumber": "^5.9.0",
     "axios": "^1.4.0",
     "chalk": "^4.1.2",
