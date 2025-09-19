@@ -7,7 +7,7 @@ const chalk = require('chalk')
 
 //contact details
 global.onwername = "ɪᴄᴏɴɪᴄ ᴛᴇᴄʜ"
-global.onwernumber = '263716304574' 
+global.onwernumber = '254707501020' 
 global.BotName = '𝐒𝐏𝐀𝐂𝐄 𝐗𝐌𝐃'
 global.ytname = "YT: Tech-God"
 global.socialm = "GitHub: iconic05"
@@ -26,7 +26,7 @@ global.welcome = true;
 global.goodbye = true;
 global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
-global.autobio = true //auto update bio
+global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
 global.autoswview = true //auto view status/story
 global.iconictechMenu = 'v1'
